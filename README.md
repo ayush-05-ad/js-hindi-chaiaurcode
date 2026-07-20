@@ -1,2 +1,2 @@
-# js-hindi-chaiaurcodr
+# js-hindi-chaiaurcode
 A code repo for javascript series at Chai aur code channel
