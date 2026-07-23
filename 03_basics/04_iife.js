@@ -3,6 +3,7 @@
 //one use to start daybase connection immediately execute
 
 (function chai (){
+    //Named iffe
     console.log(`DB CONNECTED`)
 }) ();// ; -> iffe invoked but dont know where to stop, so to stop it we use iffe 
 
@@ -10,6 +11,7 @@
 //to uss polution jo variable ko hatana ka lia iffe ka use karta hai
 
 ( () => {
+    //unNamed iffe
     console.log(`DB CONNECTED TWO`)
 } ) ();
 
